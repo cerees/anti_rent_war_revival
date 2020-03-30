@@ -1,5 +1,5 @@
 # Site/SEO settings
-email:
+email: gdc_albany@riseup.net
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
@@ -12,9 +12,9 @@ default_img: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Anti-Rent_Post
 
 # Profile settings
 name:
-profile_img:
-profile:
-social:
+profile_img: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Anti-Rent_Poster.jpg"
+profile: "Test"
+social: 
   github:
 
 # Build settings
@@ -34,6 +34,7 @@ exclude:
   - Gemfile.lock
   - LICENSE.txt
   - README.md
+  _ post_parser.R
 
 # Pagination
 paginate: 5
