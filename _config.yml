@@ -12,8 +12,8 @@ default_img: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Anti-Rent_Post
 
 # Profile settings
 name:
-profile_img: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Anti-Rent_Poster.jpg"
-profile: "Test"
+profile_img: https://upload.wikimedia.org/wikipedia/commons/e/e6/Anti-Rent_Poster.jpg
+profile: Testing
 social: 
   github:
 
