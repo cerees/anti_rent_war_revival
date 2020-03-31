@@ -11,8 +11,8 @@ twitter_username:
 default_img: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Anti-Rent_Poster.jpg"
 
 # Profile settings
-name:
-profile_img: https://upload.wikimedia.org/wikipedia/commons/e/e6/Anti-Rent_Poster.jpg
+name: Anti-Rent War Revival
+profile_img: "/anti_rent_war_revival/assets/images/anti_rent_poster.svg"
 profile: Testing
 social: 
   github:
@@ -34,7 +34,7 @@ exclude:
   - Gemfile.lock
   - LICENSE.txt
   - README.md
-  _ post_parser.R
+  - post_parser.R
 
 # Pagination
 paginate: 5
